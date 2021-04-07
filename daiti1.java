@@ -1,0 +1,3 @@
+class daiti1{
+
+}
