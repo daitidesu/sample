@@ -1,3 +1,3 @@
 class daiti1{
-
+  
 }
